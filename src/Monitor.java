@@ -19,4 +19,13 @@ public class Monitor
     Métodos
     */
 
+    public synchronized void recibir()
+    {
+        
+    }
+    public synchronized void enviar()
+    {
+
+    }
+
 }
