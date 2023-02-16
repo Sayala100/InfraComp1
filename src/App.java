@@ -1,3 +1,16 @@
+/* 
+ * Imports
+*/
+
+import java.util.Scanner;
+
+/*
+@authors:   Santiago Ayala
+            David Ortiz 
+            Francisco Guzmán 
+
+*/
+
 public class App {
     
     public static void main(String[] args) throws Exception {

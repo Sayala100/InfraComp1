@@ -1,3 +1,9 @@
+/*
+@authors:   Santiago Ayala
+            David Ortiz 
+            Francisco Guzmán 
+
+*/
 public class Proceso extends Thread
 {
     /* 
@@ -13,10 +19,14 @@ public class Proceso extends Thread
     * Métodos
     */
 
+    public void run()
+
     public Proceso()
     {
 
     }
-    
+
+    public synchonysez void 
+
 
 }
